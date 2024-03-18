@@ -30,6 +30,6 @@ Detection Accuracy: 96.60%<br>
 **Results and Impact**<br>
 In this project, the development of an automated system for multi-class leaf dis-ease classification using deep convolutional neural networks. The trained Res-Net-50 architecture on the Plant Village dataset containing images of 5 common foliar diseases across plant species. The model achieves a test accuracy of 96.60% in classifying the diseases demonstrating the efficacy of transfer learning.<br>
 
-**Articles Published**<br>
+**For references**<br>
 1.	Savary, S., Willocquet, L., Pethybridge, S.J., Esker, P., McRoberts, N. and Nelson, A., 2019. The global burden of pathogens and pests on major food crops. Nature ecology & evolution, 3(3), pp.430-439.
 2.	Mahlein, A.K., Oerke, E.C., Steiner, U. and Dehne, H.W., 2012. Recent advances in sensing plant diseases for precision crop protection. European Journal of Plant Patholo-gy, 133(1), pp.197-209.
