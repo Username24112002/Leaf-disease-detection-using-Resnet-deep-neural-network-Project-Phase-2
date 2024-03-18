@@ -1,0 +1,1 @@
+# Leaf-disease-detection-using-Resnet-deep-neural-network-Project-Phase-2
