@@ -24,7 +24,7 @@ Additional Dependencies: Includes scikit-learn, TensorFlow and TensorFlow GPU fo
 Output-1: Healthy Tomato Leaf<br>
 ![Screenshot (19)](https://github.com/Username24112002/Leaf-disease-detection-using-Resnet-deep-neural-network-Project-Phase-2/assets/104640337/469b6b52-1d96-463b-8e10-bf2d816d4b9e)<br>
 Output-2: Diseased Tomato Leaf<br>
-![Screenshot (20)](https://github.com/Username24112002/Leaf-disease-detection-using-Resnet-deep-neural-network-Project-Phase-2/assets/104640337/be8bbdeb-87f7-4a69-8ff3-2d11497d88bb)
+![Screenshot (20)](https://github.com/Username24112002/Leaf-disease-detection-using-Resnet-deep-neural-network-Project-Phase-2/assets/104640337/be8bbdeb-87f7-4a69-8ff3-2d11497d88bb)<br>
 Detection Accuracy: 96.60%<br>
 
 **Results and Impact**<br>
