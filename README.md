@@ -11,11 +11,11 @@ High scalability.
 Less time complexity.
 
 **Requirements**<br>
-Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
-Development Environment: Python 3.8 or later is necessary for coding plant disease detection system.
-Deep Learning Frameworks: TensorFlow for model training, Torch for hand model saving & loading, matplotlib for graph plots. 
-IDE: Use of VSCode as the Integrated Development Environment for coding, debugging, and version control integration.
-Additional Dependencies: Includes scikit-learn, TensorFlow and TensorFlow GPU for deep learning tasks.
+Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.<br>
+Development Environment: Python 3.8 or later is necessary for coding plant disease detection system.<br>
+Deep Learning Frameworks: TensorFlow for model training, Torch for hand model saving & loading, matplotlib for graph plots.<br>
+IDE: Use of VSCode as the Integrated Development Environment for coding, debugging, and version control integration.<br>
+Additional Dependencies: Includes scikit-learn, TensorFlow and TensorFlow GPU for deep learning tasks.<br>
 
 **System Architecture**<br>
 ![Archi](https://github.com/Username24112002/Leaf-disease-detection-using-Resnet-deep-neural-network-Project-Phase-2/assets/104640337/c3995c32-f32f-4ac7-a942-15dae84c7926)
